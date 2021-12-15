@@ -13,7 +13,7 @@ def initialize_app
     # binding.pry
     # to pause our Code in it's Tracks / `rake console`
 
-    
+
     cli_menu
 
 
